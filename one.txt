@@ -1,4 +1,4 @@
-This my  first text file for pactsie of git and github
+This my  first text file  of git and github
 
 It is used in first branch namea = first
 
